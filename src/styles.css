@@ -75,5 +75,9 @@ body{
     height: 100%;
     text-align: center;
     line-height: 46px;
-    display: none
+    /* display: none */
+    color: #00deff;
+    font-size: 24px;
+    font-weight: 700;
+    user-select: none;
 }
