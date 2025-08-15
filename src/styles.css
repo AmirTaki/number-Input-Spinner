@@ -12,3 +12,10 @@ body{
     min-height: 100vh;
     background: #000d0f;  
 }
+
+.container {
+    position: relative;
+    width: 80px;
+    height: 50px;
+    border-radius: 40px;
+}
