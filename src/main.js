@@ -16,6 +16,6 @@ const nextNum = () => {
 }
 const prevNum = () => {
     num[index].style.display = 'none'   
-    index =(index - 1 + num.length) % num.length;
+    index =(index - 1 + num.length)  % num.length;
     num[index].style.display = 'initial'   
 }
