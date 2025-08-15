@@ -5,3 +5,9 @@ for(let i = 0; i< 100 ; i++){
     span.textContent = i;
     numbers.appendChild(span)
 }
+
+var num = numbers.getElementsByTagName('span')
+var index = 0;
+const nextNum = () => {
+    
+}
