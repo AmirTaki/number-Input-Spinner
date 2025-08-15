@@ -26,3 +26,13 @@ body{
     width: 120px;
     border: 2px solid rgba(255, 255, 255, 1);
 }
+
+.container .nect {
+    position: absolute;
+    top: 50%;;
+    right: 30px;
+    display: block;
+    width: 12px;
+    height: 12px;
+    border-top: 2px solid #fff;
+}
