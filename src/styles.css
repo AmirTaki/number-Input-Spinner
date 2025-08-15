@@ -35,4 +35,7 @@ body{
     width: 12px;
     height: 12px;
     border-top: 2px solid #fff;
+    border-left: 2px solid #fff;
+    z-index: 1;
+    transform: translateY(-50%) rotate(135deg);
 }
